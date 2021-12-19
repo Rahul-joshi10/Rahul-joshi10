@@ -6,5 +6,5 @@
 <!-- 🤔 I’m looking for -->
 - 💬 Ask me about javaScript or C++.
 - 📫 How to reach me: email: joshirahul329@gmail.com
-- 😄 Pronouns: he/him
+<!-- - 😄 Pronouns: he/him -->
 <!-- - ⚡ Fun fact: -->
